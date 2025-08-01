@@ -1,4 +1,6 @@
-# LargeType
+![logo](/icon.png)
+
+# largetype
 
 A macOS command-line utility that displays text in the largest possible font size on a fullscreen overlay.
 
