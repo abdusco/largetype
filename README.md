@@ -2,6 +2,8 @@
 
 A macOS command-line utility that displays text in the largest possible font size on a fullscreen overlay.
 
+<video src="https://github.com/user-attachments/assets/c964a11f-f3de-496c-b9d8-8208d6cb5c2c" controls></video>
+
 ## Features
 
 - Displays text as large as possible while fitting on screen without wrapping
