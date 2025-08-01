@@ -48,12 +48,16 @@ largetype "Custom Text" --font-family sans-serif --font-size 72 --font-weight bo
 
 ## Installation
 
-```bash
-# Install to /usr/local/bin (requires sudo)
-make install
+Download the latest release from the [releases page](https://github.com/abdusco/largetype/releases) and put it in your `$PATH`.
 
-# Or copy manually
-cp largetype /usr/local/bin/
+### Building from source
+
+```bash
+git clone https://github.com/abdusco/largetype.git
+cd largetype
+ARCH=arm64 VERSION=1.2.3 ./build.sh
+mv largetype /usr/local/bin/
+largetype --version
 ```
 
 ## Examples
